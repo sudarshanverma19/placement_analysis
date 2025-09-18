@@ -1,0 +1,15 @@
+# Ignore Excel data files
+data/student_cgpa.xlsx
+
+# Python cache and environment files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code settings
+.vscode/
+
+# Environment files
+.env
+
